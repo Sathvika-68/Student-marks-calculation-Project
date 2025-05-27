@@ -19,9 +19,13 @@ student_mark.sql: Handles database schema and queries
 🛠️Key Technologies
 
 Backend:Python Flask
+
 Database:MySQL
+
 API: RESTful API (JSON format)
+
 Testing Tools: Postman / Swagger UI
+
 Optional: JWT for authentication
 
 
