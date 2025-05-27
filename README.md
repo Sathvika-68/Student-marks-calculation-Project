@@ -65,6 +65,7 @@ Student Dashboard :
 ![Screenshot 2025-05-26 210219](https://github.com/user-attachments/assets/3ece652b-5416-420d-b1d3-94ee3fafbb26)
 
 
+
 💡Feature Research
 
 Authentication for teachers using JWT
