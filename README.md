@@ -41,7 +41,7 @@ View all student's externals
 View all there students
 
 
-OUTPUT 
+✅OUTPUT 
 
 Home Page :
 
@@ -61,3 +61,12 @@ Student Dashboard :
 ![Screenshot 2025-05-26 210219](https://github.com/user-attachments/assets/3ece652b-5416-420d-b1d3-94ee3fafbb26)
 
 
+💡Feature Research
+
+Authentication for teachers using JWT
+
+Frontend using React or HTML templates
+
+Export student report cards as PDF
+
+Bulk import via Excel/CSV
