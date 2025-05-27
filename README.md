@@ -43,9 +43,21 @@ View all there students
 
 OUTPUT 
 
-Home Page:
+Home Page :
+
+
+![Screenshot 2025-05-26 210022](https://github.com/user-attachments/assets/504edb44-7d4f-4d91-95e3-5cfbfca569e4)
+
+
+Faculty Dashboard:
 
 
 ![Screenshot 2025-05-26 210310](https://github.com/user-attachments/assets/1fb37817-a5c9-4a08-b001-ed35ee8b2e3d)
+
+
+Student Dashboard :
+
+
+![Screenshot 2025-05-26 210219](https://github.com/user-attachments/assets/3ece652b-5416-420d-b1d3-94ee3fafbb26)
 
 
